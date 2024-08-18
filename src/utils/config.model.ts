@@ -8,7 +8,7 @@ export enum variant {
     'success' = 'success',
 };
 
-export type variants = variant.outline | variant.primary | variant.tertiary | variant.secondary | variant.danger | variant.none | variant.success;
+export type variants = 'outline' | 'primary' | 'secondary' | 'tertiary' | 'danger' | 'none' | 'success';
 
 export type size = 'xs' | 's' | 'm' | 'l' | 'xl';
 
