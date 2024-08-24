@@ -1,6 +1,6 @@
 {
   "name": "@nk-ui/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "UI Components for consistent design",
   "main": "dist/index.js",
   "scripts": {
